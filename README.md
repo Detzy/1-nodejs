@@ -1,2 +1,9 @@
-"# 1-nodejs"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/Detzy/1-nodejs.git git push -u origin master
-"# 1-nodejs" 
+Title: "Dupont"
+
+Hello! Hope you are having an awsoem day!
+
+My name is Eirik Ølberg.
+
+You initialise the program with "npm start"
+
+<3333
